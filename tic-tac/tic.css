@@ -1,0 +1,21 @@
+#tic {
+    text-align: center;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+table {
+    margin: auto;
+}
+
+.a {
+    border-bottom: 2px solid black;
+}
+
+.b {
+    border-left: 2px solid black;
+}
